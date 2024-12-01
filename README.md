@@ -4,6 +4,8 @@
 This app is an engaging and educational game designed for children, focusing on improving their cognitive, artistic, and verbal skills through fun and interactive games. Parents can monitor progress, and children can enjoy gamified challenges and social features in a safe and secure environment.
 
 ---
+### Main Game Interface
+![Game Interface](assets/images/highfidlity.JPG)
 
 ## **App Features and Functionality**
 
